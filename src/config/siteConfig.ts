@@ -21,7 +21,7 @@ export const siteConfig: SiteConfig = {
 
 	// 站点关键词
 	keywords: [
-		"Firefly",
+		"SUN的小世界",
 		"Fuwari",
 		"Astro",
 		"ACGN",
